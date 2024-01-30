@@ -1,0 +1,5 @@
+}
+
+body.play-music {
+  animation: fadeIn 2s ease-in-out; /* Adjust the animation duration and timing function as needed */
+}
